@@ -1,0 +1,53 @@
+{
+  "password_policy": {
+    "min_length": 12,
+    "require_uppercase": true,
+    "require_lowercase": true,
+    "require_digit": true,
+    "require_special": true,
+    "password_expiration_days": 90
+  },
+  
+  "firewall_policy": {
+    "allowed_ports": [22, 80, 443],
+    "deny_all_default": true
+  },
+  
+  "logging_policy": {
+    "auth_failures_enabled": true,
+    "log_rotation": true,
+    "syslog_forwarding_enabled": true
+  },
+
+  "user_policy": {
+    "max_inactive_days": 90,
+    "max_admin_users": 2
+  },
+
+  "service_policy": {
+    "disable_services": ["telnet", "ftp"],
+    "allowed_ports": [22, 80, 443]
+  },
+
+  "file_policy": {
+    "critical_files": {
+      "/etc/passwd": "644",
+      "/etc/shadow": "600"
+    },
+    "no_world_writable_dirs": ["/etc", "/var"]
+  },
+
+  "patch_policy": {
+    "max_pending_updates": 5
+  },
+
+  "network_policy": {
+    "ssh_root_login": false,
+    "tls_min_version": "1.2"
+  },
+
+  "endpoint_policy": {
+    "antivirus_running": true,
+    "definitions_up_to_date": true
+  }
+}
