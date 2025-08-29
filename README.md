@@ -47,7 +47,7 @@ git clone https://github.com/your-username/Security-Policies-Framework.git
 cd Security-Policies-Framework
 
 
-Future Enhancements
+# Future Enhancements
 
 📌 Add automated compliance checklists
 
@@ -57,11 +57,11 @@ Future Enhancements
 
 📌 Integrate with GRC (Governance, Risk & Compliance) tools
 
-📖 License
+📖# License
 
 📜 This project is licensed under the MIT License – free to use, modify, and distribute with attribution.
 
-📚 References
+📚 # References
 
 NIST Cybersecurity Framework
 
