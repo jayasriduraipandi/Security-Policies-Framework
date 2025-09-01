@@ -11,7 +11,21 @@ This project is useful for:
 ---
 
 ## 📜 Policies Included  
-
+- ✅ Password Policy  
+- ✅ Access Control Policy  
+- ✅ Network Security Policy  
+- ✅ Incident Response Policy  
+- ✅ Data Protection Policy  
+- ✅ Email Security Policy  
+- ✅ Remote Work Security Policy  
+- ✅ Mobile Device Security Policy  
+- ✅ Physical Security Policy  
+- ✅ Backup & Recovery Policy  
+- ✅ Security Awareness & Training Policy  
+- ✅ Third-Party Vendor Security Policy  
+- ✅ Acceptable Use Policy  
+- ✅ Multi-Factor Authentication (MFA) Policy  
+- ✅ Bring Your Own Device (BYOD) Policy  
 
 ---
 
