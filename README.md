@@ -37,14 +37,6 @@ This project is useful for:
 
 ---
 
-## 🛠️ How to Use  
-
-```bash
-# Clone this repository
-git clone https://github.com/your-username/Security-Policies-Framework.git
-
-# Navigate to the project folder
-cd Security-Policies-Framework
 
 
 Future Enhancements
