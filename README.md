@@ -36,15 +36,6 @@ This project is useful for:
 ✨ Extendable for **ISO 27001, NIST, GDPR, HIPAA, PCI-DSS** compliance requirements  
 
 ---
-## 🛠️ How to Use  
-
-```bash
-# Clone this repository
-git clone https://github.com/your-username/Security-Policies-Framework.git
-
-# Navigate to the project folder
-cd Security-Policies-Framework
-
 Future Enhancements
 
 📌 Add automated compliance checklists
