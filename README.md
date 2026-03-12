@@ -6,8 +6,8 @@ The **Security Policies Framework** is a collection of essential security polici
 This project is useful for:  
 - 🏢 Organizations establishing their **Information Security Management System (ISMS)**  
 - 🎓 Students & researchers learning about **cybersecurity governance**  
-- 🚀 Startups and small businesses aiming to build **basic security practices**  
-
+- 🚀 Startups and small businesses aiming to build **basic security practices**
+- 
 ---
 
 ## 📜 Policies Included  
